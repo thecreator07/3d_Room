@@ -1,0 +1,24 @@
+# Rhino
+newmtl cardboardSurface
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd cardboardSurface.png
+newmtl /Plywood_C_50cm#1
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Plywood_C_Diff.jpg
+newmtl /Glass_Dirty_A01_40cm#2
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
